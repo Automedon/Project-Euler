@@ -14,4 +14,4 @@ const ruler1 = () => {
 
   return sum;
 };
-// 233168
+console.log(ruler1()); // 233168
